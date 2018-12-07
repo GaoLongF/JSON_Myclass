@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="json-lib-2.4-jdk15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../后端学习/json jar/commons-beanutils-1.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../后端学习/json jar/commons-collections-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../后端学习/json jar/commons-lang-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../后端学习/json jar/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../后端学习/json jar/ezmorph-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../后端学习/json jar/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../后端学习/mysql-connector-java-8.0.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
